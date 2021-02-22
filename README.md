@@ -1,1 +1,1 @@
-# Portfolio
+This portfolio is practice what I have learnt so far and to recieve feedback as I build a website that includes best practices and the vital pieces of information, which will help me secure a role after completing the Generation Australia course.
